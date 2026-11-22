@@ -18,6 +18,6 @@ A real-time target detection, azimuth lock-on, and perimeter threat-alert contro
 - **Live Telemetry:** Streams structured CSV logs (`AZ:<deg>,RNG:<cm>,DELTA:<cm>,STATE:<mode>`) over UART at `115200` baud.
 
 ## Live Simulation
-- **Wokwi Project:** [Run Live in Browser](([https://wokwi.com/projects/481397933644866561]))
+- **Wokwi Project:** [Run Live in Browser](https://wokwi.com/projects/481397933644866561)
 - **Demo Screenshot:**
   ![Counter-Drone Radar Demo](simulation_proof)
